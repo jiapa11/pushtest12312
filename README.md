@@ -11,7 +11,7 @@
  3. asd
  
  - [x] asd
- - [] asd
- - [] asdad
+ - [ ] asd
+ - [ ] asdad
 
 ![image](https://github.com/user-attachments/assets/dd5a7605-cebb-4823-9f79-147aaeadbba5)
